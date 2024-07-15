@@ -1,5 +1,7 @@
-## Hello there 👋
-# Me chamo <b>Cadmo Neto</b>, prazer
+# Hello there 👋
+## I'm Cadmo Neto, nice to meet you
+Currently I'm coursing Information Systems at UFS (Universidade Federal de Sergipe) and I work as a FullStack Web Developer at DETRAN by the ACP Group.
+
 
 <!--
 **CadmoNeto/CadmoNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
