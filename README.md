@@ -9,7 +9,7 @@ I'm always looking for learn new skills and features to improve myself and becom
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CadmoNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
+<div style="display: flex">
   <div>
     <h2>Using at Work</h2>
     <div>
