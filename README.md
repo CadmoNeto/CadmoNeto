@@ -9,7 +9,7 @@ I'm always looking for learn new skills and features to improve myself and becom
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CadmoNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div style="display: flex">
+<div>
   <div>
     <h2>Using at Work</h2>
     <div>
@@ -22,9 +22,9 @@ I'm always looking for learn new skills and features to improve myself and becom
   <div>
     <h2>Knowledge and Learning</h2>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />-->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
     </div>
   </div>
