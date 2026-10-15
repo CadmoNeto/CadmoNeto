@@ -1,48 +1,57 @@
-# Hello there 👋
-## I'm Cadmo Neto, nice to meet you
-Currently I'm coursing Information Systems at UFS (Universidade Federal de Sergipe) and I work as a FullStack Web Developer at DETRAN by the ACP Group.
-I'm always looking for learn new skills and features to improve myself and become better developer.
+<div align="center">
 
-<div>
-  <a href="https://github.com/CadmoNeto">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadmoNeto&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CadmoNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+Hi, I'm Cadmo Neto 👋
+Full-Stack Developer · C#/.NET · SQL Server · JavaScript
+📍 Aracaju, Brazil 🇧🇷  ·  🌍 Open to remote and international opportunities
 </div>
 
-<div>
-  <div>
-    <h2>Using at Work</h2>
-    <div>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
-    </div>
-  </div>
-  <div>
-    <h2>Knowledge and Learning</h2>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-    </div>
-  </div>
+About me
+I'm a Brazilian Full-Stack Developer with 3+ years of professional experience, building, maintaining, and improving web applications.
+I currently work on systems for DETRAN through ACP Group, while pursuing a degree in Information Systems at the Federal University of Sergipe (UFS).
+My strongest experience is with ASP Classic, C#/.NET, JavaScript, and SQL Server. I've also worked with REST APIs, React, and TypeScript. I enjoy understanding how systems work, improving existing codebases, and turning ideas into useful software.
+- 💻 Day to day: Web application maintenance, development, and API integration.
+- 🧩 Interested in: Backend engineering, software architecture, and full-stack product development.
+- 📚 Currently exploring: Next.js, Python, and software design practices.
+- 🗣️ Languages: Portuguese (native) and English (fluent).
+Tech stack
+Professional experience
+<p>
+  <img alt="ASP Classic" src="https://img.shields.io/badge/ASP%20Classic-424242?style=for-the-badge" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+Additional hands-on experience
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+Learning and exploring
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+What I enjoy building
+- Reliable web applications that solve real problems.
+- REST APIs and integrations between different systems.
+- Improvements to existing codebases, including legacy systems.
+- Side projects where I can experiment with new tools and architecture.
+GitHub activity
+<details>
+  <summary>Show GitHub stats and public repository languages</summary>
+  <br />
+  <p align="center">
+    <img alt="Cadmo's GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=CadmoNeto&show_icons=true&theme=github_dark&hide_border=true" />
+    <img alt="Most used languages in public repositories" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadmoNeto&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
+  </p>
+  <sub>These charts reflect GitHub repository activity, not the full scope of my professional work.</sub>
+</details>
+
+<div align="center">
+  <i>Always learning, always building.</i>
 </div>
-
-
-<!--
-**CadmoNeto/CadmoNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
